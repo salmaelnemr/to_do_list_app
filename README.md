@@ -1,19 +1,26 @@
-# to_do_list_app
+## 📋 1. To-Do List App
 
-A new Flutter project.
+### 📝 Description
+A basic Flutter To-Do List application that allows users to:
+- Add new tasks  
+- Mark tasks as completed  
+- Delete tasks  
 
-## Getting Started
+This app focuses on **core functionality** only, without backend integration or persistent storage.
 
-This project is a starting point for a Flutter application.
+### 🚀 Features
+- ✅ Add tasks using a simple text field  
+- ☑️ Tap to mark tasks as done  
+- 🗑️ Delete tasks with a button  
+- 🎨 Modern, minimal UI with smooth interactions  
 
-A few resources to get you started if this is your first Flutter project:
+### 🧱 Tech Stack
+- **Flutter** (latest stable)
+- **Dart**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📸 Screens Overview
+- **Splash Screen:** Displays logo & app name.
+- **Home Screen:** Displays a list of tasks and an input field.
 
 <img width="528" height="1058" alt="Android Emulator - Pixel_5_API_31_5554 10_25_2025 11_58_28 AM" src="https://github.com/user-attachments/assets/8b75670f-2aab-4e62-bf79-847558f4d679" />
 <img width="528" height="1058" alt="Android Emulator - Pixel_5_API_31_5554 10_25_2025 11_58_40 AM" src="https://github.com/user-attachments/assets/29346dff-1fdb-4596-8ffe-288504096390" />
